@@ -5,4 +5,4 @@ Efficiency Expert | Published Author | Lifelong Learner | Opinions are my own
 
 ## GitHub statistics
 
-[![mikefrobbins' GitHub stats](https://github-readme-stats.vercel.app/api?username=mikefrobbins)](https://github.com/anuraghazra/github-readme-stats)
+[![mikefrobbins' GitHub stats](https://github-readme-stats.vercel.app/api?username=mikefrobbins&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
