@@ -1,7 +1,16 @@
 # Mike F. Robbins
 
-Lead writer for Azure #PowerShell @Microsoft | former Microsoft MVP | Scripter | Automator |
-Efficiency Expert | Published Author | Lifelong Learner | Opinions are my own
+Lead docs writer for [Azure PowerShell][https://aka.ms/azps] at Microsoft | former Microsoft MVP |
+PowerShell SME | Automator | Efficiency Expert | Published Author | Lifelong Learner | Opinions are
+my own
+
+- Author of [PowerShell 101: The No-Nonsense Beginner’s Guide to PowerShell][powershell-101]
+- Creator of [The PowerShell Conference Book][the-powershell-conference-book]
+- Co-author of [Windows PowerShell TFM 4th Edition][windows-powershell-tfm-4]
+- Contributing author in the [PowerShell Deep Dives][powershell-deep-dives] book
+
+Blogs at [mikefrobbins.com][mikefrobbins-com] and can be found on Twitter
+[@mikefrobbins][mikefrobbins-twitter].
 
 ## GitHub statistics
 
