@@ -12,8 +12,8 @@ published author of several books, including:
 - Contributing author in the [PowerShell Deep Dives][powershell-deep-dives] book
 
 When Mike's not writing documentation for Microsoft, he shares his thoughts and insights on his blog
-at [mikefrobbins.com][mikefrobbins-com] and interacts with his followers on Twitter
-[@mikefrobbins][mikefrobbins-twitter].
+at [mikefrobbins.com][mikefrobbins-com] and interacts with his followers on Bluesky
+[@mikefrobbins.com][mikefrobbins-bluesky].
 
 ## GitHub statistics
 
@@ -29,4 +29,4 @@ at [mikefrobbins.com][mikefrobbins-com] and interacts with his followers on Twit
 [windows-powershell-tfm-4]: https://www.sapien.com/books_training/Windows-PowerShell-4
 [powershell-deep-dives]: https://www.manning.com/books/powershell-deep-dives
 [mikefrobbins-com]: https://mikefrobbins.com/
-[mikefrobbins-twitter]: https://twitter.com/mikefrobbins
+[mikefrobbins-bluesky]: https://bsky.app/profile/mikefrobbins.com
