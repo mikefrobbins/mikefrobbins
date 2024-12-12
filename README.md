@@ -26,7 +26,7 @@ at [mikefrobbins.com][mikefrobbins-com] and interacts with his followers on Blue
 [azure-powershell]: https://aka.ms/azps
 [powershell-101]: https://leanpub.com/powershell101
 [the-powershell-conference-book]: https://leanpub.com/powershell-conference-book
-[windows-powershell-tfm-4]: https://www.sapien.com/books_training/Windows-PowerShell-4
+[windows-powershell-tfm-4]: https://www.amazon.com/Windows-PowerShell-TFM-Jason-Helmick/dp/0982131461/
 [powershell-deep-dives]: https://www.manning.com/books/powershell-deep-dives
 [mikefrobbins-com]: https://mikefrobbins.com/
 [mikefrobbins-bluesky]: https://bsky.app/profile/mikefrobbins.com
