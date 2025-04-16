@@ -24,7 +24,7 @@ at [mikefrobbins.com][mikefrobbins-com] and interacts with his followers on Blue
 <!-- link references -->
 
 [azure-powershell]: https://aka.ms/azps
-[azure-cli]: https://aka.ms/azurecli
+[azure-cli]: https://aka.ms/azcli
 [powershell-101]: https://leanpub.com/powershell101
 [the-powershell-conference-book]: https://leanpub.com/powershell-conference-book
 [windows-powershell-tfm-4]: https://www.amazon.com/Windows-PowerShell-TFM-Jason-Helmick/dp/0982131461/
