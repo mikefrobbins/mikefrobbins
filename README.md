@@ -12,8 +12,8 @@ and experience. He is also a published author of several books, including:
 - Contributing author in the [PowerShell Deep Dives][powershell-deep-dives] book
 
 When Mike's not writing documentation for Microsoft, he shares his thoughts and insights on his blog
-at [mikefrobbins.com][mikefrobbins-com] and interacts with his followers on Bluesky
-[@mikefrobbins.com][mikefrobbins-bluesky].
+at [mikefrobbins.com][mikefrobbins-com] and actively engages with the tech community on
+[LinkedIn][mikefrobbins-linkedin].
 
 ## GitHub statistics
 
@@ -30,4 +30,4 @@ at [mikefrobbins.com][mikefrobbins-com] and interacts with his followers on Blue
 [windows-powershell-tfm-4]: https://www.amazon.com/Windows-PowerShell-TFM-Jason-Helmick/dp/0982131461/
 [powershell-deep-dives]: https://www.manning.com/books/powershell-deep-dives
 [mikefrobbins-com]: https://mikefrobbins.com/
-[mikefrobbins-bluesky]: https://bsky.app/profile/mikefrobbins.com
+[mikefrobbins-linkedin]: https://www.linkedin.com/in/mikefrobbins/
