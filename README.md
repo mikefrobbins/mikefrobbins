@@ -3,8 +3,8 @@
 Mike F. Robbins, a former Microsoft MVP, is the lead technical writer for
 [Azure PowerShell][azure-powershell] and [Azure CLI][azure-cli] at Microsoft. With extensive
 experience in PowerShell, he is a scripting, automation, and efficiency expert. As a lifelong
-learner, Mike continuously strives to improve his skills and empower others by sharing his knowledge
-and experience. He is also a published author of several books, including:
+learner, Mike continually strives to improve his skills and empower others by sharing his knowledge
+and expertise. He is also a published author of several books, including:
 
 - Author of [PowerShell 101: The No-Nonsense Guide to Windows PowerShell][powershell-101]
 - Creator of [The PowerShell Conference Book][the-powershell-conference-book]
