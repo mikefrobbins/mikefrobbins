@@ -19,8 +19,6 @@ at [mikefrobbins.com][mikefrobbins-com] and actively engages with the tech commu
 
 ![](https://komarev.com/ghpvc/?username=mikefrobbins)
 
-[![mikefrobbins' GitHub stats](https://github-readme-stats.vercel.app/api?username=mikefrobbins&count_private=true&hide=issues,contribs&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 <!-- link references -->
 
 [azure-powershell]: https://aka.ms/azps
