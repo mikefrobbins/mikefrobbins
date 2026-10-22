@@ -19,8 +19,7 @@ Mike is a published author and contributor to several books, including:
 
 He continues to share his experience, technical insights, and practical guidance through his blog at
 [mikefrobbins.com][mikefrobbins-com] and with the broader technology community on
-[LinkedIn][mikefrobbins-linkedin]. Mike is open to senior-level cloud automation, Azure engineering,
-and technical writing opportunities.
+[LinkedIn][mikefrobbins-linkedin].
 
 ## Profile views
 
